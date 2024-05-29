@@ -47,7 +47,7 @@ Feel free to explore the code, suggest improvements, or contribute new features.
 ![Sample Screenshot](RP-2.JPG)
 ![Sample Screenshot](RP-3.JPG)
 ![Sample Screenshot](RP-4.JPG)
-*(Include a screenshot of the game interface here)*
+
 
 ### Contributions
 We welcome contributions! If you'd like to contribute to the project, please fork the repository, create a new branch, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
